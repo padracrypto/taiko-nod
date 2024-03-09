@@ -1,6 +1,6 @@
 
 Taiko Node Commands gm
-gm....1111
+gm....1212
 1- sudo apt autoremove docker* container* -y
 2- sudo apt install jq curl wget tar zip unzip -y
 3- curl -sSL https://get.docker.com | bash -
